@@ -1,9 +1,28 @@
 # ML-Model-Monitoring-Dashboard
 
+# ML Model Monitoring Dashboard
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-blue)](#)
 [![Dashboards](https://img.shields.io/badge/Dashboards-Analytics-yellow)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+
+---
+
+## 📷 Dashboard Preview
+<img src="Dashboard.png" width="800">
+
+---
+
+## 📂 Files
+- **ML-Dashboard.pbix** - Power BI file
+- **Dashboard.png** - Dashboard Screenshot
+- **Data.xlsx** - Dataset (optional)
+
+---
+
 
 
 # overview
