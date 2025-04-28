@@ -1,8 +1,9 @@
 # ML-Model-Monitoring-Dashboard
 
-# ML Model Monitoring Dashboard
 
-[![Power BI]()](#)
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-blue)](https://app.powerbi.com/view?r=your-long-link)
+
 [![Dashboards](https://img.shields.io/badge/Dashboards-Analytics-yellow)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,7 +11,8 @@
 
 
 ## 📷 Dashboard Preview
-<img src="Dashboard.png" width="800">
+<img src=![image](https://github.com/user-attachments/assets/7f195cd8-470a-4c9b-9001-2e8ee2f54cbb)
+>
 
 
 ---
