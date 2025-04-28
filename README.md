@@ -9,17 +9,9 @@
 ---
 
 
----
-
 ## 📷 Dashboard Preview
 <img src="Dashboard.png" width="800">
 
----
-
-## 📂 Files
-- **ML-Dashboard.pbix** - Power BI file
-- **Dashboard.png** - Dashboard Screenshot
-- **Data.xlsx** - Dataset (optional)
 
 ---
 
