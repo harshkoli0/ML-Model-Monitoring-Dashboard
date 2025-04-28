@@ -1,31 +1,12 @@
 # ML-Model-Monitoring-Dashboard
-# ML Model Monitoring Dashboard
+
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-blue)](#)
 [![Dashboards](https://img.shields.io/badge/Dashboards-Analytics-yellow)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
----
 
-## 📊 Overview
-Power BI dashboard for monitoring Machine Learning models:
-- Accuracy, Precision, Recall
-- Drift Scores
-- Best Performing Model Version
-
----
-
-## 📷 Dashboard Preview
-<img src="Dashboard.png" width="800">
-
----
-
-## 📂 Files
-- **ML-Dashboard.pbix** - Power BI file
-- **Dashboard.png** - Dashboard Screenshot
-- **Data.xlsx** - Dataset (optional)
-
----
+# overview
 
 A Power BI dashboard designed to monitor, compare, and analyze the performance of multiple machine learning model versions deployed in production or testing environments.
 It helps ML and Data Science teams ensure models continue to perform well, detect performance degradation, and support decision-making for model updates or retraining.
