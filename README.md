@@ -2,7 +2,7 @@
 
 # ML Model Monitoring Dashboard
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-blue)](#)
+[![Power BI](https://github.com/harshkoli0/ML-Model-Monitoring-Dashboard/blob/main/ml%20model%20monitoring.pbix)](#)
 [![Dashboards](https://img.shields.io/badge/Dashboards-Analytics-yellow)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
